@@ -12,18 +12,20 @@ body{
   background-color:burlywood;
   flex-basis: auto;
   margin: 10px;
-  
-  
-}
+  }
+
+  img{
+  align-items:center;
+   
+  }  
 
 h2{
   text-align: center;
   border: solid 1px chocolate
 }
 
-img{
-  align-items:center;
-}
+
+
 .Available{
   background-color: chocolate;
 }
