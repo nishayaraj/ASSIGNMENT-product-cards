@@ -24,8 +24,22 @@ h2{
   border: solid 1px chocolate
 }
 
-
-
 .Available{
   background-color: chocolate;
 }
+
+.card-img-topper{
+  position:absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1;
+}
+
+.card-img-bottom{
+  position:absolute;
+  top: 25px;
+  left: 25px;
+  z-index: 2;
+}
+
+ 
